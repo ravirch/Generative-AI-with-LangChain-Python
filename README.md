@@ -6,25 +6,25 @@ The repository is designed to be a continually growing resource, with new module
 
 ## Project Index
 
-### 1. LangChain Fundamentals
+### 1. [LangChain Fundamentals](https://github.com/ravirch/Generative-AI-with-LangChain-Python/tree/main/LangChain-Fundamentals)
    Learn the LangChain ecosystem with this foundational module. It covers essential topics like:
    - Data ingestion techniques (text and PDF loaders)
    - Data transformation (recursive, character, and text splitting)
    - Embeddings
    - Creating and querying vector databases (FAISS and Chroma)
 
-### 2. OpenAI-Ollama-RAG Framework
+### 2. [OpenAI-Ollama-RAG Framework](https://github.com/ravirch/Generative-AI-with-LangChain-Python/tree/main/OpenAI-Ollama-RAG-Framework)
    Build an end-to-end Retrieval-Augmented Generation (RAG) framework using OpenAI and Ollama. This module includes:
    - Data ingestion and splitting
    - Storing and managing FAISS vector databases
    - Retrieving and generating efficient responses
 
-### 3. LangChain Expression Language
+### 3. [LangChain Expression Language](https://github.com/ravirch/Generative-AI-with-LangChain-Python/tree/main/LangChain-Expression-Language)
    Explore the LangChain Expression Language (LCEL) and build a simple application to translate text from English to other languages. This module demonstrates:
    - Text transformations
    - Utilizing large language models for translations
 
-### 4. Building Chatbots with LangChain
+### 4. [Building Chatbots with LangChain](https://github.com/ravirch/Generative-AI-with-LangChain-Python/tree/main/Building-Chatbots-with-LangChain)
    Create intelligent chatbots with LangChain, focusing on:
    - Managing conversation history
    - Utilizing prompt templates
