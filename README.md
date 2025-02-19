@@ -30,7 +30,7 @@ The repository is designed to be a continually growing resource, with new module
    - Utilizing prompt templates
    - Integrating vector databases for enhanced responses
 
-### **5. Chat Interfaces with LangChain**  
+### 5. [Chat Interfaces with LangChain](https://github.com/ravirch/Chat-Interfaces-with-LangChain)
    Create interactive chat applications using LangChain, focusing on:  
    - Implementing dynamic chat-based interfaces  
    - Enhancing user interactions with conversational memory  
