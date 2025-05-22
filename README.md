@@ -34,7 +34,14 @@ The repository is designed to be a continually growing resource, with new module
    Create interactive chat applications using LangChain, focusing on:  
    - Implementing dynamic chat-based interfaces  
    - Enhancing user interactions with conversational memory  
-   - Integrating real-time data sources for intelligent responses  
+   - Integrating real-time data sources for intelligent responses
+
+### 6. [Text Summarization with LangChain](https://github.com/ravirch/Generative-AI-with-LangChain-Python/tree/main/Text%20Summarization%20with%20LangChain)
+Build intelligent summarization pipelines using LangChain, focusing on:
+   - Using "Stuff" method to summarize combined documents in one prompt
+   - Applying "Map-Reduce" to generate summaries from document chunks and merge results
+   - Implementing "Refine" to iteratively improve summaries using previous outputs
+   - Choosing the right strategy based on document size and summarization goals
 
 ## Future Enhancements
 
